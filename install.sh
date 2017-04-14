@@ -7,7 +7,7 @@ get_os_bit() {
   os_bit=$(uname -m)
   echo "OS bit: ${os_bit}"
 }
-
+えーっ
 # Get Linux distribution name
 get_os_distribution() {
   package_manager="unknown"
